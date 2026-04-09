@@ -34,8 +34,9 @@ The dataset represents a flat-file transactional structure containing over **541
 - December recorded the highest AOV despite fewer transactions, suggesting larger basket sizes and higher-value purchases during the holiday shopping window.
 <p align="center">
   <img src="https://github.com/MostafaAlali/Market-Product-Performance-Review/blob/main/images/Monthly%20Revenue%20.png" width="45%" />
-  <img src="(https://github.com/MostafaAlali/Market-Product-Performance-Review/blob/main/images/Average%20Order%20Value%20.png" width="45%" />
+  <img src="https://github.com/MostafaAlali/Market-Product-Performance-Review/blob/main/images/Average%20Order%20Value%20.png" width="45%" />
 </p>
+
 ---
 ### Revenue by Day & Time Period
 
