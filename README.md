@@ -42,7 +42,9 @@ The dataset represents a flat-file transactional structure containing over **541
 
 - The **Afternoon period** consistently produced the highest revenue across all weekdays.  
 - **Tuesday** and **Thursday** dominated peak performance windows.
+  ![image alt](https://github.com/MostafaAlali/Market-Product-Performance-Review/blob/main/images/time_day_sale.png)
 
+---
 ### Month-over-Month (MoM) Sales Growth Analysis
 
 - Sales momentum steadily increased toward Q4, peaking in November with **1.45M total sales** and **2,753 orders**, driven by Black Friday campaigns and holiday purchasing behavior.  
@@ -52,14 +54,19 @@ The dataset represents a flat-file transactional structure containing over **541
 - September and October continued the upward trend, preparing for the peak holiday season.  
 
 **Key Takeaway:** Seasonal campaigns and holiday timing have a major impact on revenue and order volume.
-
+  ![image alt](https://github.com/MostafaAlali/Market-Product-Performance-Review/blob/main/images/mom_sales.png)
+  
 ---
 
-### Top Revenue & Most Frequently Ordered Products
+### Top Sales & Most Frequently Ordered Products
 
 Products such as **REGENCY CAKESTAND 3 TIER** and **PAPER CRAFT, LITTLE BIRDIE** significantly outperform others, acting as primary revenue anchors.
 
 Several high-frequency products appear across both top-revenue and top-order segments, confirming their strategic importance for inventory prioritization.
+  <p align="center">
+  <img src="https://github.com/MostafaAlali/Market-Product-Performance-Review/blob/main/images/top_sales_product.png" width="45%" />
+  <img src="https://github.com/MostafaAlali/Market-Product-Performance-Review/blob/main/images/top_order_product.png" width="45%" />
+</p>
 
 ---
 
