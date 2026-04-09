@@ -32,7 +32,7 @@ The dataset represents a flat-file transactional structure containing over **541
 
 - November recorded the highest total revenue, followed by October and September, confirming strong seasonal demand ahead of the holiday period.  
 - December recorded the highest AOV despite fewer transactions, suggesting larger basket sizes and higher-value purchases during the holiday shopping window.
-| ![Monthly Revenue Chart](https://github.com/MostafaAlali/Market-Product-Performance-Review/blob/main/images/Monthly%20Revenue%20.png) | ![Top Products Chart](https://github.com/MostafaAlali/Market-Product-Performance-Review/blob/main/images/Average%20Order%20Value%20.png) |
+| <img src="[images/monthly_revenue.png](https://github.com/MostafaAlali/Market-Product-Performance-Review/blob/main/images/Monthly%20Revenue%20.png)" alt="[Monthly Revenue](https://github.com/MostafaAlali/Market-Product-Performance-Review/blob/main/images/Average%20Order%20Value%20.png)" width="400"/> | <img src="images/top_products.png" alt="Top Products" width="400"/> |
 ---
 ### Revenue by Day & Time Period
 
