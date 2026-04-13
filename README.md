@@ -1,4 +1,4 @@
-# 📦 UK E-Commerce Sales & Product Performance Analytics
+# 📦 UK Retail Sales & Product Performance Analytics
 
 An end-to-end data analytics project uncovering transactional trends, seasonal demand, and operational efficiency for a major UK-based online retailer.
 
